@@ -1,0 +1,5 @@
+{
+  "code": 493,
+  "ver": "4.9.3",
+  "url": "https://raw.githubusercontent.com/Omang2994/eztab-centralize-updates/main/EzTabPro_CentralizeFirmware_v4.9.3.bin"
+}
